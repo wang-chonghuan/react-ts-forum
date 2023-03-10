@@ -2,14 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e7f207b4-945c-4e24-82f7-9537af1c6925" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/super-forum-client/src/components/LeftMenu.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/super-forum-client/src/components/Main.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/super-forum-client/src/components/Nav.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/super-forum-client/src/components/RightMenu.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/super-forum-client/src/components/SideBar.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/super-forum-client/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/super-forum-client/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/super-forum-client/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/super-forum-client/src/App.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -40,7 +51,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678490483351</updated>
-      <workItem from="1678490484573" duration="402000" />
+      <workItem from="1678490484573" duration="853000" />
     </task>
     <servers />
   </component>
