@@ -2,30 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e7f207b4-945c-4e24-82f7-9537af1c6925" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes.sh" beforeDir="false" afterPath="$PROJECT_DIR$/notes.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/super-forum-client/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/super-forum-client/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/super-forum-client/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/super-forum-client/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/super-forum-client/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/super-forum-client/public/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/super-forum-client/public/logo192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/super-forum-client/public/logo512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/super-forum-client/public/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/super-forum-client/public/robots.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/super-forum-client/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/super-forum-client/src/App.test.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/super-forum-client/src/App.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/super-forum-client/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/super-forum-client/src/index.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/super-forum-client/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/super-forum-client/src/react-app-env.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/super-forum-client/src/reportWebVitals.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/super-forum-client/src/setupTests.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/super-forum-client/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/super-forum-client/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/super-forum-client/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/super-forum-client/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/super-forum-client/src/App.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +28,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "C:/0dev/fsts/react-ts-forum",
+    "ts.external.directory.path": "C:\\0dev\\fsts\\react-ts-forum\\super-forum-client\\node_modules\\typescript\\lib",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -60,7 +40,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678490483351</updated>
-      <workItem from="1678490484573" duration="9000" />
+      <workItem from="1678490484573" duration="402000" />
     </task>
     <servers />
   </component>
